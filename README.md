@@ -10,7 +10,7 @@ Link to the Website hosted on Heroku: https://vast-temple-80158.herokuapp.com/
 
 ## Demo
 
-![Animation shows.](.\Assets\00-demo.gif)
+![Animation shows.](Assets\00-demo.gif)
 
 ## User Story
 
