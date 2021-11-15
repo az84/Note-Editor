@@ -6,17 +6,13 @@ Task is to build a text editor that runs in the browser. The editor will be a si
 
 You will take an existing application that is already built and implement the methods for getting and storing data to an IndexedDB database. You will be using a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
-Website Link: https://vast-temple-80158.herokuapp.com/
+Link to the Website hosted on Heroku: https://vast-temple-80158.herokuapp.com/
+
+## Demo
+
+![Animation shows.](.\Assets\00-demo.gif)
 
 ## User Story
-
-```md
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-```
-
-## Acceptance Criteria
 
 ```md
 GIVEN a text editor web application
@@ -46,3 +42,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+## Contact
+
+- [Alina Zaidi](https://github.com/az84)
+- [LinkedIn](https://www.linkedin.com/in/alinazaidi1098/)
